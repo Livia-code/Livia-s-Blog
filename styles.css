@@ -1,0 +1,29 @@
+body {
+	font-family: Arial, sans-serif;
+	
+}
+
+.{
+margin: 0;
+padding:0;
+box-sizing: border-box;
+}
+
+header {
+	width: 100vw;
+	height: 100vh;
+	color: rgb(238, 29, 203);
+	background-image: url(./purple\ img.jpeg);
+	background-position: bottom;
+	background-size: cover;
+}
+
+#blog-date {
+	font-size: 18px;
+	color: #f134b2;
+}
+
+#blog-content {
+	font-size: 18px;
+	color: black;
+}

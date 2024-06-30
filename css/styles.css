@@ -1,0 +1,34 @@
+body {
+	font-family: Arial, sans-serif;	
+	background-color: rgb(245, 229, 241);
+
+}
+.navbar {
+	
+	color: brown;
+}
+.footer {
+height: 30px;
+
+}
+#note {
+	font-size: medium;
+	margin-left: 30px;
+	padding-right: 30px;
+}
+img {
+height: 500px;
+padding-top: 30px;
+padding-left: 800px;
+}
+
+.profile {
+	position: absolute;
+	top: 150px;
+	padding-left:20px ;
+	color: brown;
+	
+}
+.navbar-brand {
+	color: black;
+}
